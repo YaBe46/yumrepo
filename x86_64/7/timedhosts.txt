@@ -1,0 +1,9 @@
+mirror.us.oneandone.net 0.343564987183
+ftp.free.fr 0.282305955887
+ftp.iij.ad.jp 0.019788980484
+ftp.nara.wide.ad.jp 0.0143659114838
+mirror.vtti.vt.edu 0.229807853699
+ftp.tsukuba.wide.ad.jp 0.0287380218506
+centos.mirror.iweb.ca 0.188519001007
+ftp.jaist.ac.jp 0.0212140083313
+ftp.yz.yamagata-u.ac.jp 0.0360968112946
